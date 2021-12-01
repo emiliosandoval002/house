@@ -1,3 +1,14 @@
+#contact{
+  background-image: url(../images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    background-color:black;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: white;
+}
+
 #indexbody {
    
     background-image: url(../images/image1.jpg);
@@ -8,8 +19,8 @@
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     color: white;
-    
 }
+
 #floor1{
   background-image: url(../images/image1.jpg);
   background-repeat: no-repeat;
@@ -42,6 +53,19 @@
   text-align: center;
   color: white;
 }
+
+#floor4{
+  background-image: url(../images/floor4.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+ 
 
 #floor5{
   background-image: url(../images/floor5.gif);
@@ -78,6 +102,17 @@
 
 #floor8{
   background-image: url(../images/floor8.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor9{
+  background-image: url(../images/floor9.gif);
   background-repeat: no-repeat;
   background-size: cover;
   background-size: 100%;

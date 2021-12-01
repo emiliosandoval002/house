@@ -1,5 +1,16 @@
-body {
-   /*  background-image: url(../images/image2.png); */
+#contact{
+  background-image: url(../images/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100%;
+    background-color:black;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+#indexbody {
+   
     background-image: url(../images/image1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -8,8 +19,109 @@ body {
     font-family: 'Open Sans', sans-serif;
     text-align: center;
     color: white;
-    
 }
+
+#floor1{
+  background-image: url(../images/image1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor2{
+  background-image: url(../images/floor2.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor3{
+  background-image: url(../images/floor3.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor4{
+  background-image: url(../images/floor4.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+ 
+
+#floor5{
+  background-image: url(../images/floor5.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor6{
+  background-image: url(../images/floor6.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor7{
+  background-image: url(../images/floor7.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor8{
+  background-image: url(../images/floor8.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#floor9{
+  background-image: url(../images/floor9.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  background-color:black;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  color: white;
+}
+
 header {
     background-color: black;
     height: 100px;
